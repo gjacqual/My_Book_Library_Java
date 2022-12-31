@@ -1,5 +1,5 @@
 package ru.fillweb.booklibrary.domain;
 
-public class Role {
-    
+public enum Role {
+    CLIENT, MANAGER, ADMIN
 }
